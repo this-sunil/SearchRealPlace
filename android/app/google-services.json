@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "908782390020",
+    "project_id": "evigenie-e58f8",
+    "storage_bucket": "evigenie-e58f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908782390020:android:2f217c17caceefed9a5e51",
+        "android_client_info": {
+          "package_name": "com.example.evigenie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908782390020-936ctvtteg0833lsnflfa11s3ln3n9q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evigenie",
+            "certificate_hash": "611fe04831f17300e8942a4d611598ca79b789ec"
+          }
+        },
+        {
+          "client_id": "908782390020-kfmvdrrm5ddemgc27oe6c2ks9nafn7mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDXDotv4BvrDLb_sS9oPMdyH4njsRMJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908782390020-kfmvdrrm5ddemgc27oe6c2ks9nafn7mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
